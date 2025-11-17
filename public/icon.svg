@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <!-- Blue rounded square background -->
+  <rect width="400" height="400" rx="80" fill="#1E88E5"/>
+
+  <!-- White document/card -->
+  <rect x="50" y="50" width="300" height="300" rx="40" fill="#FFFFFF"/>
+
+  <!-- Light blue folded corner -->
+  <path d="M 265 50 L 350 135 L 350 50 Z" fill="#BBDEFB"/>
+  <path d="M 265 50 Q 300 50 320 70 Q 340 90 350 135 L 265 135 Z" fill="#E3F2FD"/>
+
+  <!-- Blue checkmark -->
+  <path d="M 120 110 L 150 145 L 200 95"
+        fill="none"
+        stroke="#1E88E5"
+        stroke-width="20"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+  <!-- Light blue text lines -->
+  <rect x="90" y="190" width="220" height="40" rx="20" fill="#BBDEFB"/>
+  <rect x="90" y="260" width="220" height="40" rx="20" fill="#BBDEFB"/>
+</svg>
